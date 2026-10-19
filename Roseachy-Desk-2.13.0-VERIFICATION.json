@@ -1,0 +1,20 @@
+{
+  "release": "2.13.0-reference-themes",
+  "recorded_at": "2026-10-19T14:14:03.466080+00:00",
+  "final_html_sha256": "3d997b50935d8419467a2bce2829a83845d5069ef5477ca692010addacb12df9",
+  "passed": 80,
+  "failed": 0,
+  "static_audit": "passed",
+  "provenance": "67 functional/platform checks from the initial run, followed by 12 focused theme checks and 1 final expanded contrast check. Functional suites were not redundantly rerun after isolated theme CSS refinements.",
+  "theme_detail": {
+    "protected_screenshots": 36,
+    "reference_viewport_checks": 210,
+    "contrast_screen_states": 112,
+    "screenshots": 17
+  },
+  "limits": [
+    "Chromium automation only; physical devices, Safari/Firefox and deployed Cloudflare headers not certified.",
+    "Sampled contrast is not an exhaustive accessibility audit.",
+    "No Cloudflare site deployment."
+  ]
+}

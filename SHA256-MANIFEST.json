@@ -1,15 +1,25 @@
 {
-  "release": "2.12.3-reference-finish",
+  "release": "2.13.0-reference-themes",
   "artifacts": [
     {
-      "name": "Roseachy-Desk-2.12.3-Cloudflare-Pages.zip",
-      "sha256": "84a77d4eb20c8878b2b15aacdd077ccad6667875089f26b701db1890eb1b76c5",
-      "bytes": 348185
+      "name": "Roseachy-Desk-2.13.0-Cloudflare-Pages.zip",
+      "sha256": "7172a53b443a55389544e7cc8115f13745e6527da4a9701d0c975318e011ae23",
+      "bytes": 352064
     },
     {
-      "name": "Roseachy-Desk-2.12.3-Source.zip",
-      "sha256": "ab40eff90e17d1b002280cbb2511000bdbcc4795e35a90263da697f743925ed1",
-      "bytes": 1418133
+      "name": "Roseachy-Desk-2.13.0-Source.zip",
+      "sha256": "cf46077d18406c4fab0c7e962809695bc9c4074229378191ca3380aaf509948d",
+      "bytes": 6128957
+    },
+    {
+      "name": "Roseachy-Desk-2.13.0-Preview.zip",
+      "sha256": "16407cf79a56805839ee03e981900864d0a01ee820305c0245a64694edbe7621",
+      "bytes": 300694
+    },
+    {
+      "name": "Roseachy-Desk-2.13.0-Preview.html",
+      "sha256": "3d997b50935d8419467a2bce2829a83845d5069ef5477ca692010addacb12df9",
+      "bytes": 1203358
     }
   ],
   "deployment_files": {
@@ -21,10 +31,10 @@
     "icons/icon-512.png": "f21642d8d7276d10a0a48dcf072e92244a4cef30e0f711b927404550aa0efe64",
     "icons/icon-maskable-512.png": "c8fbe9fee181d10f8f45fad63a103a977fd53c2c80fa655b2b736f80a06f5f79",
     "icons/roseachy-logo.svg": "724b316fcdc1ce317dab61c826e35b56672ab4fb1e90bc2c103cff9b0183107e",
-    "index.html": "936f4ece0a59b80760d632ce7c600e10eda12b25d76244821bd4d65625a3b9df",
+    "index.html": "3d997b50935d8419467a2bce2829a83845d5069ef5477ca692010addacb12df9",
     "js/android-sync-files.js": "92e46f87d5b2904b1413e8cd69e875e14e244a625d9ef1007cc82787ea20e6c8",
     "js/pwa.js": "36c93b10687024e60bc4e68d993965ce59c75b12b3842d1cf9a8e77a21b89aa5",
     "manifest.json": "f2ab1ff7d090f833d90221761c9499cde5971a38d17b6c674535400c09e3a628",
-    "sw.js": "c0cfa97e8cbf5626df8801b0cac565670cacd5b9b1b4a9910c9cfd0bb569a245"
+    "sw.js": "0e824ff28ddfc9862a6b734b75fe9fcf0c974d2ae88ae3db25b58755fe2592ba"
   }
 }
