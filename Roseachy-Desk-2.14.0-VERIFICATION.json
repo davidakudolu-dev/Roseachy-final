@@ -1,0 +1,96 @@
+{
+  "release": "2.14.0-credit-edit",
+  "passed": 140,
+  "failed": 0,
+  "runtimeHtmlSha256": "62d795edfed2645421acec0ad8141805985a92d548af7c0aab3e3a937af45d3b",
+  "suites": [
+    {
+      "suite": "regression",
+      "passed": 19,
+      "failed": 0,
+      "resultModifiedAt": 1792484027.6907494
+    },
+    {
+      "suite": "workflow",
+      "passed": 22,
+      "failed": 0,
+      "resultModifiedAt": 1792484036.4423091
+    },
+    {
+      "suite": "integrity",
+      "passed": 10,
+      "failed": 0,
+      "resultModifiedAt": 1792484039.59815
+    },
+    {
+      "suite": "sync",
+      "passed": 11,
+      "failed": 0,
+      "resultModifiedAt": 1792484043.1299717
+    },
+    {
+      "suite": "platform",
+      "passed": 5,
+      "failed": 0,
+      "resultModifiedAt": 1792484045.361859
+    },
+    {
+      "suite": "repair",
+      "passed": 5,
+      "failed": 0,
+      "resultModifiedAt": 1792484049.845633
+    },
+    {
+      "suite": "credit-edit",
+      "passed": 20,
+      "failed": 0,
+      "resultModifiedAt": 1792484305.5648625
+    },
+    {
+      "suite": "failure",
+      "passed": 6,
+      "failed": 0,
+      "resultModifiedAt": 1792484067.5767434
+    },
+    {
+      "suite": "financial",
+      "passed": 4,
+      "failed": 0,
+      "resultModifiedAt": 1792484070.5045965
+    },
+    {
+      "suite": "system",
+      "passed": 13,
+      "failed": 0,
+      "resultModifiedAt": 1792484180.6510775
+    },
+    {
+      "suite": "multidevice",
+      "passed": 7,
+      "failed": 0,
+      "resultModifiedAt": 1792484186.4707873
+    },
+    {
+      "suite": "performance",
+      "passed": 5,
+      "failed": 0,
+      "resultModifiedAt": 1792484223.304948
+    },
+    {
+      "suite": "theme",
+      "passed": 12,
+      "failed": 0,
+      "resultModifiedAt": 1792484373.7694652
+    },
+    {
+      "suite": "contrast",
+      "passed": 1,
+      "failed": 0,
+      "resultModifiedAt": 1792484344.3749309
+    }
+  ],
+  "staticFindings": 0,
+  "method": "Full regression followed by targeted credit-edit/static/source-boundary/theme rechecks. Earlier failures retained under regression-attempts.",
+  "fullRunPassed": 139,
+  "fullRunFailed": 1
+}

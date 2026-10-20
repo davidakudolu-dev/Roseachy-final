@@ -1,25 +1,25 @@
 {
-  "release": "2.13.1-system-audit",
+  "release": "2.14.0-credit-edit",
   "artifacts": [
     {
-      "name": "Roseachy-Desk-2.13.1-Cloudflare-Pages.zip",
-      "sha256": "fe9738512371a958a06a84a75d71979b4aa35473fe79188c7221f027c2d4e9d5",
-      "bytes": 353467
+      "name": "Roseachy-Desk-2.14.0-Cloudflare-Pages.zip",
+      "sha256": "7c493c051c75ed7f0099a268c55c85249f05f4315ca2851b2e98b22ac9052e38",
+      "bytes": 355341
     },
     {
-      "name": "Roseachy-Desk-2.13.1-Source.zip",
-      "sha256": "d81388807ab81b5802139f6f103097ca16b6db4205444a0efb31706a23008c55",
-      "bytes": 10647940
+      "name": "Roseachy-Desk-2.14.0-Source.zip",
+      "sha256": "473e5a640748dbd591719fe16fa7584d0e9178bb63b50a66d9810d6a6533f147",
+      "bytes": 11548987
     },
     {
-      "name": "Roseachy-Desk-2.13.1-Preview.zip",
-      "sha256": "f6867db5d359128fffbf3ce363ed2eb2a39d106cf22c029068b4357cb9efcaff",
-      "bytes": 302097
+      "name": "Roseachy-Desk-2.14.0-Preview.zip",
+      "sha256": "4375903fb899ac7cccd6d2c3cea7fd32df352d83f1116cb6416d0a999c5273cf",
+      "bytes": 303971
     },
     {
-      "name": "Roseachy-Desk-2.13.1-Preview.html",
-      "sha256": "7a7cc76219855232ed4502b6a719a031950a7a42da9786619a39162640e54579",
-      "bytes": 1210683
+      "name": "Roseachy-Desk-2.14.0-Preview.html",
+      "sha256": "62d795edfed2645421acec0ad8141805985a92d548af7c0aab3e3a937af45d3b",
+      "bytes": 1217431
     }
   ],
   "deployment_files": {
@@ -31,7 +31,7 @@
     "icons/icon-512.png": "f21642d8d7276d10a0a48dcf072e92244a4cef30e0f711b927404550aa0efe64",
     "icons/icon-maskable-512.png": "c8fbe9fee181d10f8f45fad63a103a977fd53c2c80fa655b2b736f80a06f5f79",
     "icons/roseachy-logo.svg": "724b316fcdc1ce317dab61c826e35b56672ab4fb1e90bc2c103cff9b0183107e",
-    "index.html": "7a7cc76219855232ed4502b6a719a031950a7a42da9786619a39162640e54579",
+    "index.html": "62d795edfed2645421acec0ad8141805985a92d548af7c0aab3e3a937af45d3b",
     "js/android-sync-files.js": "92e46f87d5b2904b1413e8cd69e875e14e244a625d9ef1007cc82787ea20e6c8",
     "js/pwa.js": "36c93b10687024e60bc4e68d993965ce59c75b12b3842d1cf9a8e77a21b89aa5",
     "manifest.json": "f2ab1ff7d090f833d90221761c9499cde5971a38d17b6c674535400c09e3a628",
