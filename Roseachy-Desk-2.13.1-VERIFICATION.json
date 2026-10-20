@@ -1,0 +1,79 @@
+{
+  "runAt": "2026-10-20T00:17:56.461Z",
+  "node": "v24.19.0",
+  "platform": "linux",
+  "suites": [
+    {
+      "suite": "static-audit.mjs",
+      "exitCode": 0,
+      "durationMs": 1183
+    },
+    {
+      "suite": "regression.mjs",
+      "exitCode": 0,
+      "durationMs": 1771
+    },
+    {
+      "suite": "workflow-regression.mjs",
+      "exitCode": 0,
+      "durationMs": 9173
+    },
+    {
+      "suite": "integrity-regression.mjs",
+      "exitCode": 0,
+      "durationMs": 3182
+    },
+    {
+      "suite": "sync-regression.mjs",
+      "exitCode": 0,
+      "durationMs": 3973
+    },
+    {
+      "suite": "platform-regression.mjs",
+      "exitCode": 0,
+      "durationMs": 3141
+    },
+    {
+      "suite": "repair-regression.mjs",
+      "exitCode": 0,
+      "durationMs": 4562
+    },
+    {
+      "suite": "failure-simulation.mjs",
+      "exitCode": 0,
+      "durationMs": 12604
+    },
+    {
+      "suite": "financial-reconciliation.mjs",
+      "exitCode": 0,
+      "durationMs": 1979
+    },
+    {
+      "suite": "system-simulation.mjs",
+      "exitCode": 0,
+      "durationMs": 124284
+    },
+    {
+      "suite": "multidevice-simulation.mjs",
+      "exitCode": 0,
+      "durationMs": 6872
+    },
+    {
+      "suite": "performance-simulation.mjs",
+      "exitCode": 0,
+      "durationMs": 44360
+    },
+    {
+      "suite": "theme-regression.mjs",
+      "exitCode": 0,
+      "durationMs": 42557
+    },
+    {
+      "suite": "contrast-regression.mjs",
+      "exitCode": 0,
+      "durationMs": 75825
+    }
+  ],
+  "passed": 120,
+  "failed": 0
+}
