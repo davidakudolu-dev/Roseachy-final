@@ -1,0 +1,40 @@
+{
+  "release": "2.15.0-credit-daily",
+  "artifacts": [
+    {
+      "name": "Roseachy-Desk-2.15.0-Cloudflare-Pages.zip",
+      "sha256": "15bd34adf4c7f059aee9020534ada73c0ef07f87e7dfa03dec4c728be3e51368",
+      "bytes": 361913
+    },
+    {
+      "name": "Roseachy-Desk-2.15.0-Source.zip",
+      "sha256": "dfce66f1d723cf245c724b19a8142c24a1c308419849f65138cd9588ca0a0d2f",
+      "bytes": 16687926
+    },
+    {
+      "name": "Roseachy-Desk-2.15.0-Preview.zip",
+      "sha256": "4588e1180cfe6864b4931c8bf12fdac56c51b21128d110acecd5664724b54fe3",
+      "bytes": 310545
+    },
+    {
+      "name": "Roseachy-Desk-2.15.0-Preview.html",
+      "sha256": "c4e51bf35173812db82a5e01027ef211b5db5717f3baf58af31e0d2ba28ac313",
+      "bytes": 1238960
+    }
+  ],
+  "deployment_files": {
+    "_headers": "6f189d91b18d2bc4efcb109f6eb50c0515bab4692c09825f56581791d6d211a6",
+    "_redirects": "6036983e5fc00f0169c9e939b1816ed771eee00e27f2fcc517b819041460b9ef",
+    "icons/apple-touch-icon.png": "34594d00ff16323379bc1c25e8d3f644c0cc3db1c3f24204471e7ed62eddaf15",
+    "icons/icon-192.png": "5a7a36e48ee7ab2ae094440aef46e9610f28fe9a07c15c54e638e52be56a1f2c",
+    "icons/icon-48.png": "b882aad82498324620c17ec7ec4e976a6f393e9d3226816501a0e1e8ae6b7a92",
+    "icons/icon-512.png": "f21642d8d7276d10a0a48dcf072e92244a4cef30e0f711b927404550aa0efe64",
+    "icons/icon-maskable-512.png": "c8fbe9fee181d10f8f45fad63a103a977fd53c2c80fa655b2b736f80a06f5f79",
+    "icons/roseachy-logo.svg": "724b316fcdc1ce317dab61c826e35b56672ab4fb1e90bc2c103cff9b0183107e",
+    "index.html": "c4e51bf35173812db82a5e01027ef211b5db5717f3baf58af31e0d2ba28ac313",
+    "js/android-sync-files.js": "92e46f87d5b2904b1413e8cd69e875e14e244a625d9ef1007cc82787ea20e6c8",
+    "js/pwa.js": "36c93b10687024e60bc4e68d993965ce59c75b12b3842d1cf9a8e77a21b89aa5",
+    "manifest.json": "f2ab1ff7d090f833d90221761c9499cde5971a38d17b6c674535400c09e3a628",
+    "sw.js": "bb32f93880a7a7c8f3c63436550f0513748c7069a61671b00b89303b184bfdd0"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "release": "2.15.0-credit-daily",
+  "indexSHA256": "c4e51bf35173812db82a5e01027ef211b5db5717f3baf58af31e0d2ba28ac313",
+  "summary": {
+    "runAt": "2026-10-22T16:59:21.206Z",
+    "node": "v24.19.0",
+    "platform": "linux",
+    "suites": [
+      {
+        "suite": "static-audit.mjs",
+        "exitCode": 0,
+        "durationMs": 1188
+      },
+      {
+        "suite": "regression.mjs",
+        "exitCode": 0,
+        "durationMs": 1757
+      },
+      {
+        "suite": "workflow-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 9082
+      },
+      {
+        "suite": "integrity-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 3271
+      },
+      {
+        "suite": "sync-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 3782
+      },
+      {
+        "suite": "platform-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 2632
+      },
+      {
+        "suite": "repair-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 4983
+      },
+      {
+        "suite": "credit-edit-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 10345
+      },
+      {
+        "suite": "credit-daily-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 9917
+      },
+      {
+        "suite": "credit-daily-sync.mjs",
+        "exitCode": 0,
+        "durationMs": 4639
+      },
+      {
+        "suite": "navigation-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 31610
+      },
+      {
+        "suite": "failure-simulation.mjs",
+        "exitCode": 0,
+        "durationMs": 10165
+      },
+      {
+        "suite": "financial-reconciliation.mjs",
+        "exitCode": 0,
+        "durationMs": 2594
+      },
+      {
+        "suite": "system-simulation.mjs",
+        "exitCode": 0,
+        "durationMs": 113446
+      },
+      {
+        "suite": "multidevice-simulation.mjs",
+        "exitCode": 0,
+        "durationMs": 7781
+      },
+      {
+        "suite": "performance-simulation.mjs",
+        "exitCode": 0,
+        "durationMs": 38437
+      },
+      {
+        "suite": "theme-cleanup-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 30258
+      },
+      {
+        "suite": "theme-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 40179,
+        "rechecked": true,
+        "evidence": "audit/rechecks/header-mask/theme-results.json"
+      },
+      {
+        "suite": "contrast-regression.mjs",
+        "exitCode": 0,
+        "durationMs": 45380
+      }
+    ],
+    "passed": 190,
+    "failed": 0,
+    "note": "Consolidated final results: initial run preserved; theme suite passed after correcting the test-only header mask. Production source unchanged by mask fix."
+  },
+  "receiptLabelRecheck": {
+    "passed": 18,
+    "failed": 0
+  },
+  "limitations": [
+    "Historical days read-only",
+    "No inferred legacy purchase allocation or unsupported refund balance",
+    "No physical-device/native-file-picker/live-Cloudflare certification"
+  ]
+}
